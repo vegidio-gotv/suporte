@@ -7,6 +7,10 @@ O mais completo guia de TV para o programação dos canais brasileiros.
 
 ![GO! Guia de TV](images/gotv.png)
 
+## 🛠 Suporte
+
+Se você precisa de suporte, quer registrar um bug ou sugerir uma melhoria no app, por favor [crie um tiquete](https://github.com/vegidio-gotv/suporte/issues/new/choose) e nós responderemos o mais rápido possível.
+
 ## 📱 Versões
 
 ### 1.0.3 (atual)
@@ -27,7 +31,3 @@ O mais completo guia de TV para o programação dos canais brasileiros.
 - **Novo:** Visualização de canais e toda sua programação.
 - **Novo:** Listagem dos principais destaques da programação.
 - **Novo:** Criação de alarmes.
-
-## 🛠 Suporte
-
-Se você precisa de suporte, quer registrar um bug ou sugerir uma melhoria no app, por favor [crie um tiquete](https://github.com/vegidio-gotv/suporte/issues/new/choose) e nós responderemos o mais rápido possível.
