@@ -9,7 +9,16 @@ O mais completo guia de TV para o programação dos canais brasileiros.
 
 ## 📱 Versões
 
-### 1.0.1 (atual)
+### 1.0.3 (atual)
+
+- **Correção:** Problema que prevenia tela do programa de ser fechada.
+
+### 1.0.2
+
+- **Correção:** Problema que prevenia tela do programa de ser fechada.
+- Melhorias internas.
+
+### 1.0.1
 
 - **Correção:** Mensagens de criação do alarme não aparecem quando notificações estão desativadas.
 
